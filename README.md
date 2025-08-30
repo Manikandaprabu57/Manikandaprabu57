@@ -23,7 +23,10 @@
   <img src="https://skillicons.dev/icons?i=c,python,java" height="50" />
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" height="50" />
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="50" />
+  
 </p>
 
 ---
