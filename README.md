@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Technical Skills  
+## Skills  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java" height="50" />
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" height="50" />
